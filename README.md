@@ -11,6 +11,8 @@ this is the machine learning model which predicts the a final score a tema can s
 * striker =runs scored by stricker
 * non_striker=run scored by non striker <br/>
 best fitted algorithm is Linear Regression and buil web app using the Flask (python) 
+working demo
+![alt-text]()
 
 
 
