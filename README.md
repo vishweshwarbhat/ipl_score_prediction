@@ -9,8 +9,8 @@ this is the machine learning model which predicts the a final score a tema can s
 * runs_last_5 = runs scored in last five over w.r.t to that ball 
 * wickets_last_5=wickets in last 5 over w.r.t to that ball
 * striker =runs scored by stricker
-* non_striker=run scored by non striker <br />
-best fitted algorithm is Linear Regression web app using the Flask (python) 
+* non_striker=run scored by non striker <br/>
+best fitted algorithm is Linear Regression and buil web app using the Flask (python) 
 
 
 
