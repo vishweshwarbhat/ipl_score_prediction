@@ -12,7 +12,7 @@ this is the machine learning model which predicts the a final score a tema can s
 * non_striker=run scored by non striker <br/>
 best fitted algorithm is Linear Regression and buil web app using the Flask (python) <br/>
 
-* working demo<br/>
+## * working demo<br/>
 ![alt-text](https://github.com/vishweshwarbhat/ipl_score_prediction/blob/552be46dec7529fa8d1b8cc50499fe17271a2c26/ipl_score_prediction/Innings-Score-Predictor%20demo.gif)
 
 
